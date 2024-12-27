@@ -1,10 +1,8 @@
 ---
-
-Title: 'strptime Method in Python' Description: 'Parses a string representing a date and/or time into a datetime object using the specified format.' Subjects:
-
+Title: 'strptime' Description: 'Parses a string representing a date and/or time into a datetime object using the specified format.'
+  Subjects:
 - 'Python'
 - 'Datetime'
-- 'Programming'
   Tags:
 - 'Datetime'
 - 'Parsing'
@@ -15,7 +13,7 @@ Title: 'strptime Method in Python' Description: 'Parses a string representing a 
 
 ---
 
-The **`.strptime()`**** method** in Python is a part of the `datetime` module. It is used to parse a string representing a date and/or time and convert it into a `datetime` object using a specified format.
+The **`.strptime()`** **method** in Python is a part of the `datetime` module. It is used to parse a string representing a date and/or time and convert it into a `datetime` object using a specified format.
 
 ## Syntax
 
